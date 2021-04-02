@@ -45,7 +45,10 @@ mhPopulate(countryArray, codeArray, 'code')
 |--|--|--|
 | originalArray | Array|data that include foreign key |
 | populateArray | Array|populate data|
-| key | String|populate key|
+| key | String|foreign key|
+| populateKey | String|populate key|
+| isNumber | Boolean|is populate value number, by default false|
+
 
 
 
