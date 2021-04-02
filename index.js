@@ -3,10 +3,10 @@ const _ = require("lodash")
 /**
  * populate between two array.
  * @param {Array} originalArray - data need to populate.
- * @param {Array} mapperArray - The reference key we have.
+ * @param {Array} populateArray - The reference key we have.
  * @param {String} key - the selected key need to populate
  */
-function mhPopulate(originalArray, mapperArray, key) {
+function mhPopulate(originalArray, populateArray, key) {
 
     //convert Array to stringify
     var originalArrayStr = JSON.stringify(originalArray);
