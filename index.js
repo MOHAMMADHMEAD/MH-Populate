@@ -1,5 +1,6 @@
 const _ = require("lodash")
 
+
 /**
  * populate between two array.
  * @param {Array} originalArray - data need to populate.
@@ -12,7 +13,7 @@ function mhPopulate(originalArray, populateArray, key) {
     var originalArrayStr = JSON.stringify(originalArray);
 
     // mapperArray keyBy specific key
-    let mapperArrayKeyBy = _.keyBy(mapperArray, key);
+    let mapperArrayKeyBy = _.keyBy(populateArray, key);
 
     let result = originalArrayStr;
 
