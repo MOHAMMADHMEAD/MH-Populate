@@ -1,0 +1,39 @@
+{
+  "name": "MH-Populate",
+  "version": "1.0.0",
+  "description": "populate between two array with out loop",
+  "keywords": [
+    "populate",
+    "array",
+    "lodsah",
+    "js",
+    "mapper",
+    "for",
+    "keyby",
+    "refrence",
+    "mh",
+    "mh-populate",
+    "mapping",
+    "map",
+    "angular",
+    "nodjs",
+    "js",
+    "react",
+    "vue",
+    "express",
+    "hapi",
+    "database",
+    "bigdata"
+  ],
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "homepage": "https://github.com/MOHAMMADHMEAD",
+  "repository": "https://github.com/MOHAMMADHMEAD/MH-Populate",
+  "author": "Mohammad Hmead",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
