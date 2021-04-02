@@ -1,0 +1,80 @@
+[
+  {
+    "id": 0,
+    "name": "Equatorial Guinea",
+    "city": "Townsend",
+    "state": "New Jersey"
+  },
+  {
+    "id": 1,
+    "name": "Macau",
+    "city": "Galesville",
+    "state": "Kansas"
+  },
+  {
+    "id": 2,
+    "name": "Denmark",
+    "city": "Deercroft",
+    "state": "Maine"
+  },
+  {
+    "id": 3,
+    "name": "Viet Nam",
+    "city": "Alafaya",
+    "state": "Delaware"
+  },
+  {
+    "id": 4,
+    "name": "Grenada",
+    "city": "Garberville",
+    "state": "Mississippi"
+  },
+  {
+    "id": 5,
+    "name": "Greenland",
+    "city": "Vaughn",
+    "state": "Vermont"
+  },
+  {
+    "id": 6,
+    "name": "Macedonia",
+    "city": "Allamuchy",
+    "state": "New Hampshire"
+  },
+  {
+    "id": 7,
+    "name": "Guam",
+    "city": "Cassel",
+    "state": "Northern Mariana Islands"
+  },
+  {
+    "id": 8,
+    "name": "Jamaica",
+    "city": "Vandiver",
+    "state": "Nebraska"
+  },
+  {
+    "id": 9,
+    "name": "Solomon Islands",
+    "city": "Venice",
+    "state": "Wyoming"
+  },
+  {
+    "id": 10,
+    "name": "Bermuda",
+    "city": "Bluetown",
+    "state": "Illinois"
+  },
+  {
+    "id": 11,
+    "name": "Myanmar",
+    "city": "Campo",
+    "state": "Louisiana"
+  },
+  {
+    "id": 12,
+    "name": "Andorra",
+    "city": "Grahamtown",
+    "state": "California"
+  }
+]

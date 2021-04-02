@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="0deaeaf9-ae2b-478b-b7cc-db71859d4e27" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,9 +28,14 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/data" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/data" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -46,7 +50,8 @@
       <workItem from="1617372339157" duration="1229000" />
       <workItem from="1617375687512" duration="809000" />
       <workItem from="1617377759850" duration="291000" />
-      <workItem from="1617390689162" duration="285000" />
+      <workItem from="1617390689162" duration="1073000" />
+      <workItem from="1617391875277" duration="664000" />
     </task>
     <servers />
   </component>
@@ -58,10 +63,10 @@
       <screen x="0" y="23" width="1680" height="972" />
     </state>
     <state x="646" y="211" key="RollbackChangesDialog/0.23.1680.972@0.23.1680.972" timestamp="1617372461044" />
-    <state x="440" y="242" key="Vcs.Push.Dialog.v2" timestamp="1617373328480">
+    <state x="440" y="242" key="Vcs.Push.Dialog.v2" timestamp="1617391159869">
       <screen x="0" y="23" width="1680" height="972" />
     </state>
-    <state x="440" y="242" key="Vcs.Push.Dialog.v2/0.23.1680.972@0.23.1680.972" timestamp="1617373328480" />
+    <state x="440" y="242" key="Vcs.Push.Dialog.v2/0.23.1680.972@0.23.1680.972" timestamp="1617391159869" />
     <state x="541" y="228" width="598" height="548" key="find.popup" timestamp="1617372302822">
       <screen x="0" y="23" width="1680" height="972" />
     </state>
