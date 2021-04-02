@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0deaeaf9-ae2b-478b-b7cc-db71859d4e27" name="Default Changelist" comment="" />
+    <list default="true" id="0deaeaf9-ae2b-478b-b7cc-db71859d4e27" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +15,9 @@
         <option value="JavaScript File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1qcChOcmnqbTFevRn8sTUBcVBEF" />
   <component name="ProjectViewState">
@@ -36,6 +41,7 @@
       <updated>1617369610324</updated>
       <workItem from="1617369611571" duration="867000" />
       <workItem from="1617370539536" duration="1462000" />
+      <workItem from="1617372339157" duration="684000" />
     </task>
     <servers />
   </component>
@@ -43,6 +49,14 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="646" y="211" key="RollbackChangesDialog" timestamp="1617372461044">
+      <screen x="0" y="23" width="1680" height="972" />
+    </state>
+    <state x="646" y="211" key="RollbackChangesDialog/0.23.1680.972@0.23.1680.972" timestamp="1617372461044" />
+    <state x="440" y="242" key="Vcs.Push.Dialog.v2" timestamp="1617373328480">
+      <screen x="0" y="23" width="1680" height="972" />
+    </state>
+    <state x="440" y="242" key="Vcs.Push.Dialog.v2/0.23.1680.972@0.23.1680.972" timestamp="1617373328480" />
     <state x="541" y="228" width="598" height="548" key="find.popup" timestamp="1617372302822">
       <screen x="0" y="23" width="1680" height="972" />
     </state>

@@ -1,5 +1,5 @@
 {
-  "name": "MH-Populate",
+  "name": "mh-populate",
   "version": "1.0.0",
   "description": "populate between two array with out loop",
   "keywords": [
