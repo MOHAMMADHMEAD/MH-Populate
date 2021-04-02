@@ -14,7 +14,7 @@ npm install mh-populate
 ## Usage
 
 ```typescript
-import mhPopulate from "mh-populate"
+import * as mhPopulate from 'mh-populate';
 
 let countryArray = [  
   {'name': 'Afghanistan', 'code': 'AF'},  
